@@ -1,6 +1,7 @@
 {
     "storymap": {
-        "map_type": "stamen:watercolor",
+        "language": "en",
+        "map_type": "osm:standard",
         "font_css": "font.css",
         "slides": [{
             "type": "overview",
@@ -19,7 +20,7 @@
                 "name": "Freiburg, Germany",
                 "lat": 47.9990,
                 "lon": 7.8421,
-                "zoom": 10,
+                "zoom": 15,
                 "line": true
             },
             "media": {
@@ -35,12 +36,244 @@
                 "name": "Nuremberg, Germany",
                 "lat": 49.4521,
                 "lon": 11.0767,
-                "zoom": 10,
+                "zoom": 15,
                 "line": true
             },
             "media": {
                     "url":              "https://cdn.pixabay.com/photo/2015/05/24/14/04/nuremberg-781798_1280.jpg",
                     "credit":               "Blende12 / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "New Delhi<br><small>Road rationing and the odd / even initiative</small>",
+                "text": "<p>In terms of air pollution, the worst-hit big city in the world recently has been Delhi &ndash; where traffic has been growing inexorably and is a major contributor to poor air quality (dust from construction, pollution from factories and power stations, the burning of fuel, crops, especially stubble after harvest, also play a role).</p><p>In a move to improve things, the Supreme Court in 1998 ordered that public transport shift from diesel fuel to compressed natural gas (CNG) which lowered levels of dangerous &lsquo;particulate matter.&rsquo; Other measures including the introduction of unleaded petrol and lowering the Sulphur content of fuels also helped. Standards for legally allowable pollution levels from vehicles have also been tightened over time, and penalties introduced for burning rubbish.</p><p>But all of these have been progressively overwhelmed by trends like the rise in vehicle numbers. In a decade from 2002 to 2012 they nearly doubled in Delhi, increasing 97 percent. Officially, Delhi is now kerosene free and most households use LPG for cooking. But in spite of positive steps like the switching of public transport to cleaner fuel, pollution is responsible for 10,000-30,000 annual deaths in Delhi according to India&rsquo;s Centre for Science and Environment (CSE). In November 2017, all the city&rsquo;s schools were closed in response to worsening smog.</p><p>But, just as the great smog in London in the early 1950s led to action and the passing of the Clean Air Act, Delhi had its own particular crisis moment in November 2016, when particulate matter rose to over ten times the highest acceptable healthy limit.</p><p>This led to the odd-even initiative. For a limited period of time, private cars in the city were controlled, with private cars being allowed onto the roads on alternate days according to whether their number plates bore odd or even numbers. The initiative faced opposition and legal challenges. Reportedly around nine out of ten people opposed to the initiative prior to its implementation, with a majority switching to being supportive after the event. New Delhi authorities reported falls in pollution of up to 25 percent in the two week duration of the scheme and reduced levels of congestion. In addition to raised public awareness of the problem, the introduction of odd/even also improved road conditions for public transport making it more efficient. Official figures reported that public buses &ndash; which have a daily target of covering 200km but typically only managed 160km &ndash; managed to serve 220km per day during the two week experiment running from January 1-15. Bus passenger numbers increased from 4.7 million per day to 5.3 million.</p><p>Since its initial introduction the odd / even scheme has been used successively during the smog season when air quality has dramatically worsened.</p>"
+            },
+            "location": {
+                "name": "New Delhi, India",
+                "lat": 28.6139,
+                "lon": 77.2090,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2020/02/21/14/23/delhi-4867634_1280.jpg",
+                    "credit":               "Confused_me / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "Milan<br><small>Open streets and the ‘15 minute neighbourhood’</small>",
+                "text": "<p>A city synonymous with traffic and congestion is Milan in Italy. It has at different times taken measures to address its problems. In 2012 the city authorities introduced a selective vehicle charge, but the six month experiment aimed at reducing city centre traffic and improving air quality was brought to an end by opposition in the form of a legal challenge from a private car park. The company complained about the effect of the measure &ndash; which introduced a 5 euro charge on cars entering the city centre - on its business.</p><p>Pierfrancesco Maran, a city council member with the portfolio for traffic planning commented at the time that, &ldquo;Today we register with respect, but also concern, that the loss suffered by a private parking lot is at issue in a court of law and that this has blocked a measure that benefits all Milanese residents.&rdquo;</p><p>The impact of the forced removal of the traffic charge after several months was surprising, with vehicles returning immediately.</p><p>But, during the scheme there had been an overall decline in vehicle numbers of 14.5 percent. And with some vehicles being exempt, the reduction in vehicles actually subjected to the charge was nearly one in five or 19 percent. While that initiative was later restored, the advent of the coronavirus pandemic has led to a more ambitious plan to reduce traffic in Milan.</p><h4>Open streets</h4><div>Now, Milan&rsquo;s municipal Strade Aperte (Open Streets) initiative is being cited as a model for improving the quality of central urban environments. It was triggered by the impact of the coronavirus pandemic, with local politicians fearing that restricted use of public transport might cause serious health and environmental problems if people switched to car use. Rather than accept that as inevitable, and in order to ensure that space was available for social distancing to control infection rates, local authorities instead set out to reduce the space available for cars and increase it for pedestrians, cyclists and people using electric bikes and motorcycles. The changes are not planned to be temporary, however, but are intended to be permanent improvements to the city.</div><p>The measures include 35 km of new cycle lanes, new and wider pavements, and expanded areas for children to play in. Some streets have been marked as giving priority to people walking and cycling and 30kph (20mph) speed limits have been introduced on multiple roads.&nbsp;</p><p>In one area known as the Lazaretto which is famous for having been a refuge for victims of historical plagues and epidemics in the 15th and 16th centuries, a low traffic neighbourhood has been created.&nbsp;</p><p>On the main Corso Buenos Aires new bike lanes have been created along major shopping streets combined with other steps taken for pedestrianisation. In other Italian cities Rome is increasing its bus fleet and Naples has a plan to promote more cycling. </p><h4>The &lsquo;15 minute neighbourhood&rsquo; &ndash; reimagining town and city life</h4><p>Behind the practical steps taken by Milanese authorities is a bigger vision. The Comune di Milano says that, &lsquo;Lazzaretto and Isola will be the pilot projects of a city that rethinks its rhythms starting from neighborhoods that offer services and quality of life within the space of 15 minutes on foot from their home.&rsquo; This introduces a big new organising principle for urban planning that reduces pressure and demand on services, especially transport services, by aiming to make sure that most of the basics for day-to-day living are available within a short walk.</p><h4>&lsquo;Open Squares&rsquo; - improving the public realm with more and better space</h4><div>Italy&rsquo;s famous town and city squares reveal the importance of public space and a high quality public realm for urban life. &lsquo;Open squares&rsquo; is another component related to the new measures in which 15 city squares have been improved over an 18 month period, with plans now for a dozen more selected after a citizens&rsquo; consultation exercise, and which include steps to improve safety for children.</div>"
+            },
+            "location": {
+                "name": "Milan, Italy",
+                "lat": 45.46429,
+                "lon": 9.1900,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2017/06/24/00/54/milan-cathedral-2436458_1280.jpg",
+                    "credit":               "ShenXin / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "New York<br><small>Prospect Park West</small>",
+                "text": "<p>A street bordering Brooklyn's Prospect Park in New York was reduced in 2010 from three vehicle traffic lanes to two, with the third lane turned into a two way bicycle lane. It was installed to the great delight of New York cyclists, and the extreme annoyance of some very powerful and well-connected people living adjacent to it. A legal case was brought against the change led by a high-powered law firm.</p><p>Opponents claimed that the benefits of the bike lane were overstated by city authorities, who themselves said that the number of cyclists had tripled on the route in the months since opening. Opponents also complained that the new bike lane had been imposed on the community, even though it was approved by the transport committee of the<a href='https://nymag.com/news/features/bike-wars-2011-3/' target='_blank' rel=''> relevant local Community Board</a>Another familiar refrain was heard in the local debate &ndash; that by reducing space for cars and inconveniencing drivers, and increasing space for active travel like cycling, businesses would suffer lost custom.</p><p>The battle over bike lanes became a &lsquo;wedge issue&rsquo; in mayoral politics according to New York Magazine. The demographics of the dispute were complex, with no clear dividing lines in terms of class, income and profession. After a failed attempt in the 1980s to create major bike lanes, a new Transport Commissioner, Janette Sadik-Khan, supported by New York&rsquo;s Mayor Bloomberg, promoted the notion of the &lsquo;complete street&rsquo; &ndash; a place for more than cars &ndash; and oversaw the introduction of 255 miles of bike lanes up to Spring 2011. The number of people cycling to work doubled between 2006 and 2010 according to the authorities.</p><p>The bike lane in Prospect Park West was built in a month, and other lanes have been introduced much quicker. Their cost is a tiny fraction of the cost of road repairs, and streets with protected bike lanes saw 40% fewer accidents.</p><p>A bike lane established in Ninth Avenue in 2007 had met with fierce opposition initially, and then been gradually accepted. By 2012, six years into the Bloomberg administration,<a href='https://www.nytimes.com/2012/08/22/nyregion/most-new-yorkers-say-bike-lanes-are-a-good-idea.html' target='_blank' rel=''> 66% of New Yorkers</a> had come round to thinking that bike lanes were a &lsquo;good idea&rsquo;. Only 27% said that they were a bad idea. This change came about in spite of the fact that a range of tabloid media had encouraged resistance to the pro-active travel measures.</p><p>In 2016, five years after the lawsuit was brought against the Prospect Park West bike lane, a move which some said<a href='https://nyc.streetsblog.org/2016/09/22/good-riddance-to-the-prospect-park-west-bike-lane-lawsuit/' target='_blank' rel=''> nearly sank New York City&rsquo;s bike program</a>, the action was dropped. One of the reasons the lawsuit failed, apart from lack of legal merit and factual grounds, was the steadfastness of certain councillors and the city authorities in the face of vocal but poorly grounded criticism. What the lawsuit did achieve, however, was to slow down the implementation of more people-friendly urban transport measures, something that cities today can hopefully learn from.</p>"
+            },
+            "location": {
+                "name": "New York, USA",
+                "lat": 40.7128,
+                "lon": -74.0060,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2015/04/20/13/44/sports-731506_1280.jpg",
+                    "credit":               "Free-Photos / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "Portland<br><small>Cutting the Car Commute</small>",
+                "text": "<p>Of course there already were US cities apart from New York before the pandemic who were taking steps to change the priority given to cars in urban spaces. Portland in Oregon has been attempting to reduce car use by changing the design of street systems for several years. In two decades from 1990 the town managed to cut the share of people commuting by car, truck or van by around 10 per cent, with journeys by bike or public transport rising to just under one in five. Daily commutes by bike went up by nearly six times, and public transport by over 50 per cent.</p>"
+            },
+            "location": {
+                "name": "Portland, USA",
+                "lat": 45.5051,
+                "lon": -122.6750,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2017/05/29/02/27/portland-2352754_1280.jpg",
+                    "credit":               "Jacob_Mckinley / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "Boston<br><small>Trialling free public transport to end car dependency</small>",
+                "text": "<p>Research investigating transport habits in the cities of Boston and Cambridge in the US found that nearly 30 percent of people who normally commute by car were prepared to change their habits and give up their permanent parking permits following a short free-transit trial. The majority switched to holding just an occasional parking permit with some making a full switch to the use of public transport. After a six month period, one in four maintained the change.</p>"
+            },
+            "location": {
+                "name": "Boston, USA",
+                "lat": 42.3601,
+                "lon": -71.0589,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2014/12/15/14/01/house-569115_1280.jpg",
+                    "credit":               "Life-Of-Pix / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "Stockholm<br><small>Congestion charging – from fierce opposition to popularity</small>",
+                "text": "<p>Even in famously progressive Scandinavian countries, it seems the pattern of attempts to improve town and city life by reducing car use does not succeed without first being opposed.</p><p>In 2006, in Stockholm, Sweden, congestion charging was introduced to control excess traffic. At the time it was remarkably successful and cheap. Priced at a &lsquo;couple of euros per driver&rsquo;, the policy saw a 20 percent reduction in car traffic during rush hours.</p><p>But this form of road pricing faced strong public opposition when it was first introduced with around seven out of ten people against it. Once people had lived with the changes for a while, however, things changed dramatically. Five years after its introduction, in 2011, opposition had switched to support. As many of the public - seven out of ten - were now in favour of the scheme as had been against it.</p><p>Stockholm&rsquo;s initiative revealed two other important insights. The first was the speed with which car users respond to measures like road pricing. When there was a pause in the policy in mid 2006, traffic levels increased overnight, quickly returning to almost to the same levels as before the scheme.</p><p>The second point of interest was the way in which people adapted, to the point that many could not remember, or admit to, ever having been opposed to the measures in the first place. This emerged during research to discover who amongst drivers had experienced a change of heart. But the findings didn&rsquo;t correlate because a disproportionate number claimed always to have been in favour of the congestion charges.</p>"
+            },
+            "location": {
+                "name": "Stockholm, Sweden",
+                "lat": 59.3293,
+                "lon": 18.0686,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2019/05/06/23/02/trains-4184537_1280.jpg",
+                    "credit":               "Dreamy_Photos / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "Madrid<br><small>Where the public want change, even if some politicians don’t</small>",
+                "text": "<p>Madrid in Spain, another European city that became known for congestion, was taking steps well before the coronavirus pandemic struck.</p><p>But it followed in even earlier steps taken by places like Pontevedra, in Northern Spain, which serves as a model of the local transformation that giving urban space back to people on foot can bring. The city returned its 300,000 square metre city centre to pedestrians, removing vehicle through traffic in 1999, bringing multiple economic, social and health benefits to residents. Since banning cars, Pontevedra has enjoyed a drastic drop in traffic accidents, reduced anti-social behaviour and much lower pollution levels. With three quarters of all journeys formerly made by car now made on foot or by bike, there have been positive health outcomes for fitter, local citizens too. To navigate around Pontevedra, you consult the metro style map &ndash; with &ldquo;m&oacute;vete coa t&uacute;a propia enerx&iacute;a&rdquo; (move with your own energy) as its strapline &ndash; and the map shows average walking times along each of its pedestrianised streets.</p><p>Similarly, following suit to improve life in the city and open up its streets for people Madrid decided also to reduce access for cars. In 2018 Madrid made the centre of the city into an &lsquo;ultra low emission zone&rsquo; effectively banning most cars.</p><p>On this occasion the scheme proved popular from the outset with the active support of a significant majority of the public with 64 percent of city residents in favour. This was matched very closely by attitudes nationally in favour of such controls on cars in central urban areas. In some regions support for traffic reduction was even higher. Within months of Madrid&rsquo;s measures being introduced levels of the toxic vehicle pollutant, nitrogen dioxide, were reportedly down by 48 percent.</p><p>However, in 2019, when a right wing political party won power in the city government, it moved to suspend the congestion reduction initiative. In response, a mass demonstration was organised by Plataforma en Defensa de Madrid Central to reintroduce the measures. Then, when a legal case was brought against the suspension, an administrative court judge in the city overruled the new council, restoring the popular scheme.</p><p>Barcelona has followed suit with a low emission zone that prohibits vehicles not meeting a low emission standard from entering the city between 7am and 8pm. New low emission zones are set to be mandated by law in all towns and cities with populations of at least 50,000 by 2025, a measure reaching 138 places.</p>"
+            },
+            "location": {
+                "name": "Madrid, Spain",
+                "lat": 40.4168,
+                "lon": -3.7038,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2017/12/16/01/42/madrid-3021998_1280.jpg",
+                    "credit":               "Julius_Silver / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "Jakarta<br><small>Home of the Car Free Day</small>",
+                "text": "<p>World Car Free Day was launched in the year 2000 with a few participating cities. By 2018, the idea had attracted some 2,000 participating cities from 46 countries around the world to participate.</p><p>But in Jakarta, Car Free Day is weekly, not just an annual event, held every Sunday since 2012 on the city&rsquo;s main avenues. During 2018&rsquo;s World Car Free Day, the citizens of Jakarta celebrated the event by breaking the world record for the largest &lsquo;poco-poco&rsquo; dance, with 65,000 people performing the traditional dance, led by President Joko Widodo.</p><p>Jakarta is the most high profile Indonesian city to start weekly car free days, but it wasn&rsquo;t the first - they were led by Bogor and Malang.</p><p>Each week the streets are reclaimed by people and given over to a wide variety of activities, with many also just enjoying the walk, absence of traffic and cleaner air. The event proves extremely popular with children, families and young people.</p>"
+            },
+            "location": {
+                "name": "Jakarta, Indonesia",
+                "lat": -6.2088,
+                "lon": 106.8456,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2019/06/23/08/10/city-4293097_1280.jpg",
+                    "credit":               "iqbalnuril / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "Paris<br><small>The plan to bring back breathable air</small>",
+                "text": "<p>The Paris Mayor, Ann Marie Hidalgo, is pioneering some of the most ambitious urban improvement measures linked to reducing the number of cars on the city&rsquo;s streets. In a direct response to the coronavirus pandemic, Paris introduced 50 km of emergency bike lanes, for a total planned of 650 km worth. It did so in just a few weeks and created the space for bikes by using semi-rigid posts and traffic barricades.</p><p>Like many well-established cities Paris was not built for modern volumes of vehicle traffic and there had been several previous attempts at tackling congestion and the pollution linked to large numbers of cars on the roads.</p><p>In 2014 the city was experiencing a serious decline in air quality, drawing comparisons with the polluted Chinese city of Beijing. In response it experimented with a version of the &lsquo;odd / even&rsquo; scheme made famous by Delhi, and mentioned above. Public transport was also made free in to tempt people away from their cars. In spite of the crisis, the measures were criticised by the political opposition leader Jean-Francois Cope - who complained of there being &lsquo;panic&rsquo; on the ground.</p><p>Further moves in 2018 to pedestrianise areas of the city centre met with right wing opposition.</p><p>Also in 2018, older petrol and diesel vehicles are banned from the city between 8am and 8pm, with diesel cars due to be banned outright in 2024 and petrol cars in 2030. These measures too have faced opposition from groups lobbying on behalf of motorists.</p><p>Hidalgo ran again in 2020 to be Mayor, and banning cars was central to her election campaign. She was successfully re-elected, with 20% more of the vote than her nearest rival.</p>"
+            },
+            "location": {
+                "name": "Paris, France",
+                "lat": 48.8566,
+                "lon": 2.3522,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2014/08/11/11/06/paris-415476_1280.jpg",
+                    "credit":               "Free-Photos / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "Strasbourg<br><small>From opposition to acceptance of traffic reduction</small>",
+                "text": "<p>Experience from the city of Strasbourg in France in traffic reduction measures echoes that of others in journeying from opposition to support.</p><p>In 1992 the city embarked on a &lsquo;plan de circulation&rsquo; that would see the expansion of central areas opened-up for public transport and active travel - cycling and walking - and closed to private cars.</p><p>Following a familiar pattern, there were warnings that the exclusion of private cars from the centre would lead to &lsquo;chaos&rsquo; and congestion. But again, this did not happen. Over the course of a decade from 1990 to 2000 the number of daily vehicles in the city centre went down by 40,000. Without the measures numbers had been projected to instead rise by 60,000 &ndash; a difference of 100, 000 vehicles.</p><p>The scheme was designed to improve quality of life, reduce pollution and make the city more attractive to residents and visitors by encouraging a full modal shift in people&rsquo;s travelling habits, switching to active travel and public transport. It worked and drivers adapted to the new road layout after a &lsquo;settling-in&rsquo; period.</p><p>A new tramline led to a 17 percent reduction in traffic coming into the wider city area in its first year, and its success led to two further tramlines being installed by 2010. Over the course of a decade from 1989 to 1999, trips made by public transport went up from 11 percent to 30 percent.</p><p>But it wasn&rsquo;t easy. There was a powerful opposition campaign supported by many retailers who feared that the physical changes (new tramlines were introduced) and pedestrianisation would reduce the number of customers with fewer car-based visits.</p><p>The city engaged in widespread consultation and also staged a major communications exercise &ndash; with a popular &lsquo;bear&rsquo; symbol and comprehensive signage explaining the changes. There was also an phone-in advice line.</p><p>The scheme proved ultimately a popular and political success, with some businesses and residents calling for expansion of traffic reduction measures. Property values were enhanced and the use of parking restrictions triggered greater turnover of custom for businesses.</p><p>Strasbourg also innovated as the first city in France to use an &lsquo;intelligent traffic management system&rsquo;. The approach works by reducing the number of stop-and-go waves along its roads, cutting vehicle stops by 9% which has the effect of lowering emissions of harmful nitrogen oxide and particulates by 8% and 9% respectively. Trams are also given priority over other forms of traffic.</p>"
+            },
+            "location": {
+                "name": "Strasbourg, France",
+                "lat": 48.5734,
+                "lon": 7.7521,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2020/03/31/19/07/strasbourg-4988969_1280.jpg",
+                    "credit":               "Pierre9x6 / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "Kajaani<br><small>Lifting a city centre up by taking down the number of cars</small>",
+                "text": "<p>In the 1990s the centre of the city of Kajaani had been in decline for some time. There had been &lsquo;heated debate&rsquo; over proposals to remove car traffic from the city&rsquo;s central area for two decades. In 1996 a decision was taken to go ahead and the traffic measures, part of a broader plan to stem and reverse the city centre&rsquo;s decline began to be implemented in 1998. In the process, the centre traffic didn&rsquo;t simply transfer onto neighbouring streets, some of it &lsquo;evaporated&rsquo; as people switched transport modes onto mass public transit and active travel options.</p><p>Polling conducted before and after the experiment showed a marked, positive shift in public attitudes towards the city centre. Before the changes 60 percent of residents thought the city a good place to live and 47 percent that the centre was &lsquo;beautiful&rsquo;. After the changes opinions shifted to 80 percent thinking Kajaani good to live in and 55 percent that the centre was beautiful.</p><p>Traffic reduction measures in the Finnish capital, Helsinki, also led to them achieving zero traffic related pedestrian deaths in 2019, the first time this had happened since current records began being kept in 1960. Oslo in Norway (see below) achieved the same that year.</p>"
+            },
+            "location": {
+                "name": "Kajaani, Finland",
+                "lat": 64.2222,
+                "lon": 27.7278,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kajaani_Raatihuone_20090116.JPG/1199px-Kajaani_Raatihuone_20090116.JPG",
+                    "credit":               "Estormiz / Wikimedia Commons"
+                }
+        }, {
+            "text": {
+                "headline": "Ghent<br><small>Where cars are only guests on the roads</small>",
+                "text": "<p>Ghent in Belgium has become something of a poster-child for progressive transport policy, but to get to that point wasn&rsquo;t easy and took political courage in the face of opposition. Like many cities not designed for the car, its streets suffered heavy congestion. Attempts to tackle the problem, however, faced &lsquo;strong opposition&rsquo;.</p><p>A medieval city, its maze of narrow streets and squares began to be overwhelmed by traffic during the 1980s. An early attempt was made in 1987 to reduce traffic and begin to address the combined problems of congestion, air and noise pollution, and poor conditions for cyclists, pedestrians and public transport. But the plan was cancelled after only 5 months due to vociferous protests from retailers. Then a cycling plan was introduced in 1993 followed by a city centre mobility plan in 1997. Before that, however, during 1996 over 300 public hearings were held to allow for extensive consultation. That wasn&rsquo;t all. Advance notice of proposed road closures was carefully communicated using a range of media channels including radio, television, maps and posters. Households were mailed and a phone information line established. Then, overnight in November 1997, and still in the face of resistance, through traffic was stopped from entering the city centre.</p><p>The congestion that opponents warned of did not occur. Public transport use increased, and the centre was opened to pedestrians and a range of life-enhancing cultural activities making it more attractive to residents and visitors.</p><p>The city leaders took the decision to demote cars to being only &lsquo;guests&rsquo; on its roads, and followed through with a huge shift toward cycle use at the heart of its Mobility Plan.</p><p>Ghent not only built new infrastructure for cycling, including 300 km of cycle routes and 7500 rental bikes, but promoted the culture of cycling with art and exhibitions to increase its appeal. Journeys by bike are now quicker than by car.</p><p>Mr Peter Vansevenant, Director of the Mobility Service, Ghent, said that key lessons from the experience were, the importance of &lsquo;Communication, communication, communication&rsquo;, and that when space for private cars is removed, it is important immediately to give back something in return, such as improved squares and streets, better facilities for cyclists, and more reliable public transport services.</p><p>In a decade the share of commutes by bike rose to one in five, more than double the national average, up from just 12 per cent. Ghent plans to be carbon-neutral by 2050 and won an international prize, the Eurostar Ashden Award for Sustainable Travel, in 2012.</p>"
+            },
+            "location": {
+                "name": "Ghent, Belgium",
+                "lat": 51.0543,
+                "lon": 3.7174,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2019/05/23/13/36/belgium-4223970_1280.jpg",
+                    "credit":               "Armennano / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "Oslo<br><small>Where you can cycle in safety</small>",
+                "text": "<p>Not a single pedestrian or cyclist died in a traffic incident in the city of Oslo, Norway in 2019. For comparison, in 1975 there had been 41 traffic fatalities (one person did die in 2019 when a driver drove into a fence). The turnaround was the result of years of considered work reducing traffic on the city&rsquo;s streets. &ldquo;The car became the owner of our cities,&rdquo; Rune Gj&oslash;s, from Oslo&rsquo;s Department of Mobility has been quoted as saying, &ldquo;but we&rsquo;re resetting the order again.&rdquo;</p><p>In spite of such extraordinary achievements, like so many of the other examples reported on here, Oslo&rsquo;s shift to designing-out the car from the city has faced increasingly familiar opposition. Some from those who simply have difficulty adapting to change, and other resistance from people fearing a loss of business when cars are reduced on roads. In fact, and again following in the footsteps of other towns and cities, Oslo city centre reported an increase of footfall of 10 percent after reduction measures, indicating that they made the streets more attractive to pedestrians.</p><p>What were some of the steps taken by the city? Most on-street parking was replaced with bike lanes and pavement for pedestrians. New street furniture such as benches were also introduced along with miniature parks. Certain major streets were closed to traffic, congestion charges were introduced and lower, safer speed limits.</p><p>Hanna Marcussen, the vice mayor for urban development, explained that Oslo&rsquo;s main objective is, &ldquo;to give the streets back to people&hellip; It is about how we want to use our streets and what the streets should be for. For us, the street should be where you meet people, eat at outdoor restaurants, where kids play, and where art is exhibited.&rdquo;</p><p>Indicative, perhaps, of a broader cultural shift, something else extraordinary happened in 2019. Not a single child under the age of 15 anywhere in the whole country of Norway died in a road crash. By comparison in Britain, between 39 and 69 children (0-15) died each year from 2010-2019, with 2,686 killed or seriously injured and 13,574 total casualties in 2019 alone.</p><p>Echoing the attitude adopted in Ghent (see above), city planners now see drivers as &lsquo;guests&rsquo; on the streets, rather than them being privileged and prioritised.</p><p>Oslo saw the number of trips taken by public transport increase by 63 percent in a decade from 2007 - 2017, with the city attributing its success to &lsquo;to long-term, comprehensive investment, with predictable funding, which has offered more frequent departures and higher quality&rsquo;. Already by 2017, 56% of public transport was powered by renewable energy with a target of going 100% renewable by 2020. This has included the conversion of ferries to be electric-powered. All boats are planned to be &lsquo;emissions-free&rsquo; by 2024.</p><p>One of the ways that Oslo overcame doubts and opposition was first by experimenting with pilot projects according to Hanna Marcussen, &ldquo;to let people see what it would be like and we began making changes little by little.&rdquo; Outside Oslo&rsquo;s town hall there was, for example, a beautiful square that was typically full of cars. Marcussen says, &ldquo;When we closed it off about a year ago, people thought it was strange &ndash; but now they think it was weird that we ever allowed cars to drive through there at all.&rdquo;</p>"
+            },
+            "location": {
+                "name": "Oslo, Norway",
+                "lat": 59.9139,
+                "lon": 10.7522,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2014/05/05/15/22/oslo-338254_1280.jpg",
+                    "credit":               "Office8 / Pixabay"
+                }
+        }, {
+            "text": {
+                "headline": "Medellín<br><small>Where public space and public transport increased and violence radically reduced</small>",
+                "text": "<p>The example of Medell&iacute;n, the second largest city in Colombia, is different. This is not a tale of habitual drivers and worried retailers at first resisting and then celebrating traffic reduction measures. Instead it is an example of how the bold re-imagining of public space and the innovative use of public transport can overcome far greater threats and obstacles, and stands as something of a reproach to more timid approaches to change in cities with fewer problems and greater initial advantages.</p><p>It could be said that Medell&iacute;n faced the violent opposition of its own history and circumstances to change. But achieving what it did in the context, strongly suggests that other cities could be far bolder in transforming themselves to improve quality of life, increase public spaces and create a better environment.&nbsp; In the early 1990s, it was the most violent city in the world. The homicide rate reached an unprecedented scale of 381 murders per 100,000 people in 1991, nearly 40 times worse than the UN&rsquo;s measure for endemic violence, at 10 per 100,000 people. Much of the violence can be attributed to the thriving illicit drug trade and turf wars between the Medell&iacute;n cartel and the state, which led to spiralling levels of violence that hit the poorest and most deprived parts of the city worst.</p><p>Since the early 2000s, however, the city has seen a remarkable transformation, with violence plummeting. The rate of murders fell between 1991 and 2015 from 381 to 20 per 100,000 people &ndash; still relatively high, but comparable to other large Latin American cities. In the last two decades Medell&iacute;n moved on to become a world-renowned centre of innovation with a thriving civil society, now admired by city planners around the world for its innovative architecture and public infrastructure.</p><p>Although still facing challenges, Medell&iacute;n has transformed from a no-go zone for foreigners into a thriving tourist hub with high levels of foreign investment and a strong civic culture &ndash; unimaginable just two decades previously. A progressive coalition of academics, community organisers and business people came together to seek solutions to Medell&iacute;n&rsquo;s crisis in the late 1990s. Their the collaborative, participatory, and pro-poor innovations were the building blocks of the rapid transition that has been termed the &ldquo;Medell&iacute;n Miracle&rdquo;. It has been a success of open participatory, civic engagement.&nbsp;</p><p>A movement of civil society leaders, business people and academics from the city&rsquo;s leading universities came together in a series of public debates on the city&rsquo;s crises, seeking to collectively define measures to address the violence. The movement actively sought to engage with community organisations from the most marginalised areas, and to encourage poor communities to participate in the governance of the city.</p><p>This urban coalition came up with proposals to invest in education, public infrastructure and public spaces in the city. The coalition came to be called Compromiso Ciudadano (&ldquo;citizen commitment&rdquo;), and eventually formed into a political party. In 2003, the party&rsquo;s mayoral candidate, Sergio Farjado, was elected on a ticket based on the movement&rsquo;s proposals. Farjado dedicated his mayoral term to &ldquo;repaying the historic social debt&rdquo; to the poorest parts of the city. The collection of policies that he put in place included developing new public spaces, schools, parks and public libraries and supporting local businesses in the lowest-income areas of the city. Combined it was a turning point.&nbsp;</p><p>The original aim of the Compromiso Ciudadano coalition was to reduce violent crime and inequality in the city. However, the drive for a social change also resulted in actions promoting urban sustainability &ndash; Medell&iacute;n now hosts Colombia&rsquo;s most advanced sustainable public transport network, and the city has vastly increased and enhanced green spaces, including through the development of a new green belt around the city&rsquo;s periphery. Medell&iacute;n even took on a leadership role in the C40 group of cities combating climate change.</p><p>The violence of the drug war was exacerbated by a long-standing history of inequality and exclusion in the city. Economic liberalization had led to high rates of unemployment, especially amongst the young making them easy recruits for drug gangs. The topography of the city also served to exacerbate patterns of inequality and exclusion. Medell&iacute;n sits in a valley of the Andes, with the poorest and most marginalised barrios climbing up into the steep mountain sides.&nbsp;</p><p>The richer parts of the city developed in the valley to the exclusion of the poorer ones in the city&rsquo;s periphery. There was limited public infrastructure connecting the richer and poorer zones, which allowed the city&rsquo;s elites to disregard the violence for many years until worsening conflict brought it to their doorsteps.</p><p>The participatory process to reimagine the city bore a vibrant civic culture that still exists today. Decisive to Medell&iacute;n&rsquo;s social and security transition was the transformation of its physical space to be more inclusive. That was aided when Colombia launched a new National Constitution in 1991 which recognised public space as a constitutional right &ndash; used by subsequent mayors to justify changes. Before the 1990s there were no public spaces in Medell&iacute;n, then authorities worked to open up parks, botanical gardens and centres for science, education and arts that were free to the public.</p><p>Conspicuous infrastructure projects that supported the inclusion of the most marginalised areas were also critical factors in the city&rsquo;s transition.One mayor, Luis Perez, introduced the first cable car &ndash; which employs Alpine ski-lift technology to connect one of the most dangerous parts of the city&rsquo;s hillsides to its wealthy centre. Three more cable car lines connecting other marginalized barrios have since been built. The cable cars intend to support a more inclusive economy, providing economic opportunities to poor residents, whose average travel time to the centre was cut down from over an hour to 15 minutes (excluding queuing time). The cable cars also hold a powerful symbolic value in areas of the city that had long felt neglected by the state &ndash; with one resident interviewed for a study remarking &lsquo;I used to say I&rsquo;m going to Medell&iacute;n, now I say I&rsquo;m going to the city centre.&rsquo;</p><p>In terms of political factors, Farjado&rsquo;s technocratic approach made a break with populist models of urban governance that predominated in Colombia. Decisions on public investments were based on data from the Human Development Index &ndash; the areas with the lowest indicators received investment. Farjado also introduced a Participatory Planning and Budgeting programme, in order to bring urban planning and governance closer to the citizenry. The infrastructure projects were also accompanied by social programmes &ndash; including a programme of cash grants similar to Brazil&rsquo;s successful Bolsa Familia programme. Business development support centres were launched in the poorest parts of town, offering free technical advice and favourable loans to residents interested in launching their own microenterprises.</p><p>Another critical economic factor in Medellin&rsquo;s rapid transition was the financial support provided by the publicly owned utility company, Empresas Publicas de Medell&iacute;n (EPM). EPM is one of Latin America&rsquo;s largest companies, providing water, gas and electricity services in countries across the region. As a publicly owned company, EPM provides 30% of its profits to the city &ndash; an economic boost that has allowed the municipality to make investments in public infrastructure that might otherwise not have been possible.</p>"
+            },
+            "location": {
+                "name": "Medellín, Colombia",
+                "lat": 6.2476,
+                "lon": -75.5658,
+                "zoom": 15,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://cdn.pixabay.com/photo/2015/08/09/15/14/cable-881759_1280.jpg",
+                    "credit":               "islandworks / Pixabay"
+                }
+        },{
+            "type": "overview",
+            "text": {
+                "headline": "Find Out More",
+                "text": "<p>Visit the <a href='https://www.carfreemegacities.org/'>Car Free Cities website</a>."},
+            "media": {
+                    "url":              "logo.png"
                 }
         }]
     }
